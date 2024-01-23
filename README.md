@@ -12,6 +12,8 @@ software with user-friendliness, optimization, speed and transparency as a prior
 
 The Nightem framework can be found across applications developed by Nightem *in the future*.
 
+To provide security and safety in requests, the Nightem framework uses
+[the http-foundation component](https://github.com/symfony/http-foundation).
 ---
 
 The Nightem framework will support and provide:
