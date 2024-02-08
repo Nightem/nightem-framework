@@ -5,6 +5,8 @@ The aim of Nightem framework was to integrate a version of Laravel and Vue toget
 without the trouble of having to make the two work together. Nightem is also a primarily SPA focussed framework,
 but allows developers to make the choice between SPA or standard, PHP routing or JS routing and more.
 
+*the Nightem framework is a trial and error project made additionally to learn the core of frameworks and the way they work hehind the scenes*
+
 ## ***💡 Nightem software***
 The Nightem framework is developed and maintained by the [Nightem software foundation](https://wolfsvale.tech).
 Dedicated to open source development and transparency, the Nightem software foundation aims to provide next-generation
